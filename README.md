@@ -1,6 +1,6 @@
 # 📊 Análise de Arremessos de 3 Pontos na NBA
 
-Este projeto realiza uma análise estatística dos arremessos de 3 pontos de jogadores da NBA usando **Python** e **Pandas**. A ideia é entender padrões, identificar os jogadores mais eficientes, e visualizar tendências ao longo das temporadas.
+Este projeto realiza uma análise estatística dos arremessos de 3 pontos de jogadores da NBA usando **Python**, **Pandas** e **SQL**. A ideia é entender padrões, identificar os jogadores mais eficientes, e visualizar tendências ao longo das temporadas.
 
 ## 📌 Objetivo
 
@@ -12,10 +12,12 @@ Investigar e visualizar os dados relacionados a arremessos de 3 pontos, exploran
 
 ## 🧰 Tecnologias e Bibliotecas
 
-- Python 3.x
+- Python
 - pandas
 - matplotlib / seaborn (opcional)
 - nba_api (fonte de dados)
+- SQL
+- pandasql
 
 ## 🔗 Fonte dos Dados
 
